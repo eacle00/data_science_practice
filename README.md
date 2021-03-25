@@ -1,3 +1,1 @@
-# These are just datasets for personal practice of data science from Kaggle.
-# Note that stroke prediction model is not having a great performance metrics because I
-# haven't handled an imbalanced dataset yet. Now I know how to, but I have not updated it yet.
+# These are just datasets for personal practice of data science from Kaggle. The Stroke Prediction Model is somehow corrected through handling imbalance dataset. Comparing the  performance metrics of different classifiers through classification report, Random Forest Classifier model gavethe best performance. Though I have'nt done any hyperparameter tuning, it gave an average recall of 0.77. 
